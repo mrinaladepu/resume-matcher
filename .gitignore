@@ -3,4 +3,5 @@ node_modules/
 uploads/
 resume_matcher.db
 *.log
-
+outputs/
+*.xlsx
